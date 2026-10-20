@@ -1,0 +1,11 @@
+{
+  "name": "landing-page-skills",
+  "owner": { "name": "igal-commits" },
+  "plugins": [
+    {
+      "name": "landing-page-skills",
+      "source": "./",
+      "description": "Thirteen skills for building world-class landing pages, from Figma to launch, with measured QA."
+    }
+  ]
+}

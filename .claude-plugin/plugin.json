@@ -1,0 +1,8 @@
+{
+  "name": "landing-page-skills",
+  "description": "Thirteen skills that take a landing page from past-page analytics and a Figma file to a measured, launched page: concepting, motion specs, imagery direction, scroll stories, Webflow build, QA and a launch reel.",
+  "version": "1.0.0",
+  "author": { "name": "igal-commits" },
+  "license": "MIT",
+  "keywords": ["landing-page", "figma", "webflow", "motion", "qa", "claude-code-skills"]
+}
