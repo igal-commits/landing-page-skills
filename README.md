@@ -4,7 +4,7 @@ Thirteen [Claude Code](https://claude.com/claude-code) skills that take a landin
 
 They are how we build our own pages at Botika: motion written in Figma, the page built on Webflow, imagery from our own engine, QA that measures instead of squints. This repository is the part that is not private.
 
-[![The 16 second reel: a new homepage building and scrolling](video/out/poster-hero.png)](video/out/home-v2-1-scroll-1080p60.mp4)
+[![The 17 second reel: a new homepage building and scrolling](video/out/poster-hero.png)](video/out/home-v2-1-scroll-1080p60.mp4)
 
 *The reel above is a real capture of one of our pages (1080p, 60 fps): the hero builds, a statement splits around a circle, four chapters build their product cards, a wall of models counts up and picks one, three benefit cards animate. Recorded with the tools in `video/`. Nothing in it was re-created.*
 
